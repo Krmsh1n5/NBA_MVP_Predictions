@@ -29,5 +29,6 @@ This project involves analyzing historical NBA player data and building a machin
 
 ## Acknowledgments
 
-- NBA data sourced from [data provider/source].
+- NBA data was sourced from [Basketball Reference](https://www.basketball-reference.com/about/glossary.html).  
+- Data was scraped from Basketball Reference for analysis purposes.  
 - Inspiration from the rich history of MVP winners and their incredible performances.
